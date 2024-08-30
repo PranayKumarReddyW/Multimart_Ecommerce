@@ -2,8 +2,6 @@
 
 ## 📌 Live Demo
 
-https://multimart-ecommerce.onrender.com
-
 ## 😎 Features
 
 - Beauty UI similar to ecommerce website
